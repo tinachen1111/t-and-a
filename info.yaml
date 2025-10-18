@@ -26,9 +26,9 @@ pinout:
   ui[7]: "input h"
 
   # Outputs
-  uo[0]: "apple"
-  uo[1]: "bank"
-  uo[2]: "candle"
+  uo[0]: "candle"
+  uo[1]: "apple"
+  uo[2]: "bank"
   uo[3]: "dark"
   uo[4]: "entire"
   uo[5]: "finger"
